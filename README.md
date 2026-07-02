@@ -26,7 +26,7 @@ Me chamo Victor, tenho 18 anos e sou estudante de programação. Atualmente, est
   </a>
 </p>
 
-<h2 align="center"> 📕 Atualmente Aprendendo </h2>
+<h2 align="center"> 📕 Aprendendo </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,bash" />
