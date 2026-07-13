@@ -15,7 +15,7 @@ Me chamo Victor, tenho 18 anos e sou estudante de programação. Atualmente, est
 <h2 align="center"> 🚀 Tecnologias </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,laravel,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,php,laravel,mysql" />
   </a>
 </p>
 
