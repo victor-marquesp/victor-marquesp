@@ -6,7 +6,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=800&color=D9BED1&center=true&vCenter=true&width=500&lines=Seja+Bem+Vindo(a)!;Eu+sou+o+Victor;Futuro+Dev+FullStack" 
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=800&color=D9BED1&center=true&vCenter=true&width=500&lines=Seja+Bem+Vindo(a)!;" 
   />
 </p>
 
